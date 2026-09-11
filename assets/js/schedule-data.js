@@ -72,8 +72,8 @@ window.SCHEDULE = [
     events: [
       {
         time: "7:00 PM – Midnight",
-        title: "IISER Got Latent",
-        organiser: "Karavaan Team + Aroha + Navarasa + Hindi Club",
+        title: "IISER's Got Latent",
+        organiser: "Karavaan Team + Aroha + Navarasa + Naqab + Hindi Club",
         venue: "CV Raman",
       },
     ],
