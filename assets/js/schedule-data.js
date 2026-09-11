@@ -5,7 +5,6 @@ window.SCHEDULE = [
       {
         time: "4:00 PM – 11:59 PM",
         title: "Karavaan Lit Club Competition",
-        note: "Name to be announced",
         organiser: "Literary Club",
         venue: "All LHC rooms (LHC 101, 201 & 301 required)",
       },
