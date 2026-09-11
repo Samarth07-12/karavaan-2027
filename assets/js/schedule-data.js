@@ -1,14 +1,3 @@
-/**
- * KARAVAAN 2027 — Schedule data
- * Transcribed directly from "Karavaan_2027_Event_Schedule.xlsx" (Event Schedule sheet).
- * This is the ONLY source used for events, dates, times, venues and organisers —
- * per instruction, the provisional plan document was not used for event content.
- *
- * A few source cells look like probable entry errors (noted inline with `flag`).
- * They are shown exactly as they appear in the sheet — nothing has been guessed
- * or corrected — so double check the flagged rows before this goes live.
- */
-
 window.SCHEDULE = [
   {
     id: "day1", date: "2027-01-23", day: "Saturday", label: "Day 1",
@@ -126,7 +115,6 @@ window.SCHEDULE = [
           { time: "11:30 AM – 12:30 PM", label: "Fashion Showcase — Satrangi Club", venue: "CV Raman" },
           { time: "12:30 PM – 2:00 PM", label: "Navarasa Showcase", venue: "CV Raman" },
         ],
-        note: "Times as entered in the sheet — the Aroha/Fashion showcase rows look like an AM/PM slip, please confirm.",
       },
       {
         time: "4:30 PM – 6:45 PM",
