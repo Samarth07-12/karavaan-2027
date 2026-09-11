@@ -103,7 +103,7 @@ window.SCHEDULE = [
         time: "7:00 PM – 10:00 PM",
         title: "Prom Night",
         organiser: "Karavaan Team",
-        venue: "In front of LHC / Dining Hall Complex terrace",
+        venue: "In front of LHC",
       },
     ],
   },
@@ -111,7 +111,7 @@ window.SCHEDULE = [
     id: "day8", date: "2027-01-30", day: "Saturday", label: "Day 8",
     events: [
       {
-        time: "7:00 PM – TBD",
+        time: "7:00 AM – TBD",
         title: "Karavaan 5K Marathon",
         organiser: "Sports Club",
         venue: "Campus / designated route",
@@ -122,8 +122,8 @@ window.SCHEDULE = [
         organiser: "Aroha · Satrangi Club · Navarasa",
         venue: "CV Raman",
         parts: [
-          { time: "10:00 AM – 11:30 PM", label: "Aroha Showcase", venue: "CV Raman", flag: true },
-          { time: "11:30 PM – 12:30 PM", label: "Fashion Showcase — Satrangi Club", venue: "CV Raman", flag: true },
+          { time: "10:00 AM – 11:30 AM", label: "Aroha Showcase", venue: "CV Raman" },
+          { time: "11:30 AM – 12:30 PM", label: "Fashion Showcase — Satrangi Club", venue: "CV Raman" },
           { time: "12:30 PM – 2:00 PM", label: "Navarasa Showcase", venue: "CV Raman" },
         ],
         note: "Times as entered in the sheet — the Aroha/Fashion showcase rows look like an AM/PM slip, please confirm.",
